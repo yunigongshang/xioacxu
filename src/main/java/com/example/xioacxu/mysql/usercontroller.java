@@ -30,7 +30,7 @@ public class usercontroller {
         List acc=b.findAll();
         return acc;
     }
-
+//dawdaw
 
     //添加死数据到数据库
     @GetMapping("/add")
