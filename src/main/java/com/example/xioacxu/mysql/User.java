@@ -29,7 +29,6 @@ public class User {
                 ", area='" + area + '\'' +
                 '}';
     }
-    //kkkkk
 
     public String getName() {
         return name;
